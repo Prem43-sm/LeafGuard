@@ -1,4 +1,5 @@
 # LeafGuard
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/22fbcc84-3512-4aca-9ab3-8b9b0df49b42" />
 
 Plant leaf disease detection system built with TensorFlow and PySide6.
 
