@@ -1,0 +1,192 @@
+{
+  "apple_scab": {
+    "plant": "Apple",
+    "disease": "Scab",
+    "solution": "Remove infected leaves, apply fungicide (captan/mancozeb), avoid overhead watering"
+  },
+  "apple_black_rot": {
+    "plant": "Apple",
+    "disease": "Black Rot",
+    "solution": "Prune infected parts, use fungicide, maintain orchard sanitation"
+  },
+  "apple_cedar_apple_rust": {
+    "plant": "Apple",
+    "disease": "Cedar Apple Rust",
+    "solution": "Remove nearby cedar trees, apply fungicide during early stage"
+  },
+  "apple_healthy": {
+    "plant": "Apple",
+    "disease": "Healthy",
+    "solution": "Maintain regular watering and nutrients"
+  },
+  "blueberry_healthy": {
+    "plant": "Blueberry",
+    "disease": "Healthy",
+    "solution": "Proper irrigation and soil pH maintenance"
+  },
+  "cherry_powdery_mildew": {
+    "plant": "Cherry",
+    "disease": "Powdery Mildew",
+    "solution": "Apply sulfur fungicide, improve air circulation"
+  },
+  "cherry_healthy": {
+    "plant": "Cherry",
+    "disease": "Healthy",
+    "solution": "Regular pruning and watering"
+  },
+  "corn_cercospora_leaf_spot": {
+    "plant": "Corn",
+    "disease": "Cercospora Leaf Spot",
+    "solution": "Use resistant varieties, apply fungicide, crop rotation"
+  },
+  "corn_common_rust": {
+    "plant": "Corn",
+    "disease": "Common Rust",
+    "solution": "Apply fungicide, remove infected leaves"
+  },
+  "corn_northern_leaf_blight": {
+    "plant": "Corn",
+    "disease": "Northern Leaf Blight",
+    "solution": "Use resistant seeds, crop rotation, fungicide spray"
+  },
+  "corn_healthy": {
+    "plant": "Corn",
+    "disease": "Healthy",
+    "solution": "Balanced fertilization"
+  },
+  "grape_black_rot": {
+    "plant": "Grape",
+    "disease": "Black Rot",
+    "solution": "Remove infected parts, apply fungicide regularly"
+  },
+  "grape_esca": {
+    "plant": "Grape",
+    "disease": "Esca",
+    "solution": "Remove infected vines, avoid pruning wounds"
+  },
+  "grape_leaf_blight": {
+    "plant": "Grape",
+    "disease": "Leaf Blight",
+    "solution": "Improve airflow, apply fungicide"
+  },
+  "grape_healthy": {
+    "plant": "Grape",
+    "disease": "Healthy",
+    "solution": "Proper pruning and sunlight exposure"
+  },
+  "orange_huanglongbing": {
+    "plant": "Orange",
+    "disease": "Huanglongbing",
+    "solution": "Control insect vectors, remove infected plants"
+  },
+  "peach_bacterial_spot": {
+    "plant": "Peach",
+    "disease": "Bacterial Spot",
+    "solution": "Use copper-based spray, avoid leaf wetness"
+  },
+  "peach_healthy": {
+    "plant": "Peach",
+    "disease": "Healthy",
+    "solution": "Proper irrigation and pruning"
+  },
+  "pepper_bell_bacterial_spot": {
+    "plant": "Pepper Bell",
+    "disease": "Bacterial Spot",
+    "solution": "Remove infected leaves, apply copper fungicide"
+  },
+  "pepper_bell_healthy": {
+    "plant": "Pepper Bell",
+    "disease": "Healthy",
+    "solution": "Maintain hygiene and spacing"
+  },
+  "potato_early_blight": {
+    "plant": "Potato",
+    "disease": "Early Blight",
+    "solution": "Apply fungicide, remove infected leaves"
+  },
+  "potato_late_blight": {
+    "plant": "Potato",
+    "disease": "Late Blight",
+    "solution": "Use certified seeds, fungicide spray, avoid moisture"
+  },
+  "potato_healthy": {
+    "plant": "Potato",
+    "disease": "Healthy",
+    "solution": "Proper soil drainage"
+  },
+  "strawberry_leaf_scorch": {
+    "plant": "Strawberry",
+    "disease": "Leaf Scorch",
+    "solution": "Remove infected leaves, apply fungicide"
+  },
+  "strawberry_healthy": {
+    "plant": "Strawberry",
+    "disease": "Healthy",
+    "solution": "Proper watering and spacing"
+  },
+  "squash_powdery_mildew": {
+    "plant": "Squash",
+    "disease": "Powdery Mildew",
+    "solution": "Apply sulfur spray, improve airflow"
+  },
+  "soybean_healthy": {
+    "plant": "Soybean",
+    "disease": "Healthy",
+    "solution": "Balanced nutrients and pest control"
+  },
+  "raspberry_healthy": {
+    "plant": "Raspberry",
+    "disease": "Healthy",
+    "solution": "Regular pruning and sunlight"
+  },
+  "tomato_bacterial_spot": {
+    "plant": "Tomato",
+    "disease": "Bacterial Spot",
+    "solution": "Copper spray, remove infected leaves"
+  },
+  "tomato_early_blight": {
+    "plant": "Tomato",
+    "disease": "Early Blight",
+    "solution": "Fungicide, crop rotation"
+  },
+  "tomato_late_blight": {
+    "plant": "Tomato",
+    "disease": "Late Blight",
+    "solution": "Avoid moisture, fungicide"
+  },
+  "tomato_leaf_mold": {
+    "plant": "Tomato",
+    "disease": "Leaf Mold",
+    "solution": "Improve ventilation, reduce humidity"
+  },
+  "tomato_septoria_leaf_spot": {
+    "plant": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "solution": "Remove lower leaves, fungicide"
+  },
+  "tomato_spider_mites": {
+    "plant": "Tomato",
+    "disease": "Spider Mites",
+    "solution": "Use neem oil or miticide"
+  },
+  "tomato_target_spot": {
+    "plant": "Tomato",
+    "disease": "Target Spot",
+    "solution": "Apply fungicide, remove infected leaves"
+  },
+  "tomato_mosaic_virus": {
+    "plant": "Tomato",
+    "disease": "Mosaic Virus",
+    "solution": "Remove infected plants, control insects"
+  },
+  "tomato_yellow_leaf_curl_virus": {
+    "plant": "Tomato",
+    "disease": "Yellow Leaf Curl Virus",
+    "solution": "Control whiteflies, remove infected plants"
+  },
+  "tomato_healthy": {
+    "plant": "Tomato",
+    "disease": "Healthy",
+    "solution": "Proper care and monitoring"
+  }
+}

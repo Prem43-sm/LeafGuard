@@ -1,0 +1,29 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local datasets and image samples
+final_dataset/
+test/
+dataset sample images/
+
+# Media/assets
+UI_media/
+improved_gui/UI_media/
+*.png
+*.jpg
+*.jpeg
+*.JPG
+*.webp
+
+# Trained models and evaluation artifacts
+*.h5
+best_model_*/
+training_curves.png
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

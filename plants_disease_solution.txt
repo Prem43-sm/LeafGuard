@@ -1,0 +1,40 @@
+| 🌱 Plant    | 🦠 Disease                      | 💊 Solution                                                                       |
+| ----------- | ------------------------------- | ---------------------------------------------------------------------------------- |
+| Apple       | Apple Scab                      | Remove infected leaves, apply fungicide (captan/mancozeb), avoid overhead watering |
+| Apple       | Black Rot                       | Prune infected parts, use fungicide, maintain orchard sanitation                   |
+| Apple       | Cedar Apple Rust                | Remove nearby cedar trees, apply fungicide during early stage                      |
+| Apple       | Healthy                         | Maintain regular watering and nutrients                                            |
+| Blueberry   | Healthy                         | Proper irrigation and soil pH maintenance                                          |
+| Cherry      | Powdery Mildew                  | Apply sulfur fungicide, improve air circulation                                    |
+| Cherry      | Healthy                         | Regular pruning and watering                                                       |
+| Corn        | Cercospora Leaf Spot            | Use resistant varieties, apply fungicide, crop rotation                            |
+| Corn        | Common Rust                     | Apply fungicide, remove infected leaves                                            |
+| Corn        | Northern Leaf Blight            | Use resistant seeds, crop rotation, fungicide spray                                |
+| Corn        | Healthy                         | Balanced fertilization                                                             |
+| Grape       | Black Rot                       | Remove infected parts, apply fungicide regularly                                   |
+| Grape       | Esca (Black Measles)            | Remove infected vines, avoid pruning wounds                                        |
+| Grape       | Leaf Blight                     | Improve airflow, apply fungicide                                                   |
+| Grape       | Healthy                         | Proper pruning and sunlight exposure                                               |
+| Orange      | Huanglongbing (Citrus Greening) | Control insect vectors, remove infected plants                                     |
+| Peach       | Bacterial Spot                  | Use copper-based spray, avoid leaf wetness                                         |
+| Peach       | Healthy                         | Proper irrigation and pruning                                                      |
+| Pepper Bell | Bacterial Spot                  | Remove infected leaves, apply copper fungicide                                     |
+| Pepper Bell | Healthy                         | Maintain hygiene and spacing                                                       |
+| Potato      | Early Blight                    | Apply fungicide, remove infected leaves                                            |
+| Potato      | Late Blight                     | Use certified seeds, fungicide spray, avoid moisture                               |
+| Potato      | Healthy                         | Proper soil drainage                                                               |
+| Raspberry   | Healthy                         | Regular pruning and sunlight                                                       |
+| Soybean     | Healthy                         | Balanced nutrients and pest control                                                |
+| Squash      | Powdery Mildew                  | Apply sulfur spray, improve airflow                                                |
+| Strawberry  | Leaf Scorch                     | Remove infected leaves, apply fungicide                                            |
+| Strawberry  | Healthy                         | Proper watering and spacing                                                        |
+| Tomato      | Bacterial Spot                  | Copper spray, remove infected leaves                                               |
+| Tomato      | Early Blight                    | Fungicide, crop rotation                                                           |
+| Tomato      | Late Blight                     | Avoid moisture, fungicide                                                          |
+| Tomato      | Leaf Mold                       | Improve ventilation, reduce humidity                                               |
+| Tomato      | Septoria Leaf Spot              | Remove lower leaves, fungicide                                                     |
+| Tomato      | Spider Mites                    | Use neem oil or miticide                                                           |
+| Tomato      | Target Spot                     | Apply fungicide, remove infected leaves                                            |
+| Tomato      | Mosaic Virus                    | Remove infected plants, control insects                                            |
+| Tomato      | Yellow Leaf Curl Virus          | Control whiteflies, remove infected plants                                         |
+| Tomato      | Healthy                         | Proper care and monitoring                                                         |

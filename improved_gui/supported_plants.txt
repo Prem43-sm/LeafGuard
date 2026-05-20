@@ -1,0 +1,93 @@
+Plant Leaf Disease Detection System
+Supported Plants for Model: best_model.h5
+Source: class_indices.json
+
+Total Raw Classes: 40
+Supported Plant Types: 14
+
+Supported Plants:
+1. Apple
+2. Blueberry
+3. Cherry (Including Sour)
+4. Corn (Maize)
+5. Grape
+6. Orange
+7. Peach
+8. Pepper Bell
+9. Potato
+10. Raspberry
+11. Soybean
+12. Squash
+13. Strawberry
+14. Tomato
+
+Disease / Health Categories by Plant:
+
+Apple:
+- Apple Scab
+- Black Rot
+- Cedar Apple Rust
+- Healthy
+
+Blueberry:
+- Healthy
+
+Cherry (Including Sour):
+- Healthy
+- Powdery Mildew
+
+Corn (Maize):
+- Cercospora Leaf Spot / Gray Leaf Spot
+- Common Rust
+- Healthy
+- Northern Leaf Blight
+
+Grape:
+- Black Rot
+- Esca (Black Measles)
+- Healthy
+- Leaf Blight (Isariopsis Leaf Spot)
+
+Orange:
+- Haunglongbing (Citrus Greening)
+
+Peach:
+- Bacterial Spot
+- Healthy
+
+Pepper Bell:
+- Bacterial Spot
+- Healthy
+
+Potato:
+- Early Blight
+- Healthy
+- Late Blight
+
+Raspberry:
+- Healthy
+
+Soybean:
+- Healthy
+
+Squash:
+- Powdery Mildew
+
+Strawberry:
+- Healthy
+- Leaf Scorch
+
+Tomato:
+- Bacterial Spot
+- Early Blight
+- Healthy
+- Late Blight
+- Leaf Mold
+- Septoria Leaf Spot
+- Spider Mites / Two-Spotted Spider Mite
+- Target Spot
+- Tomato Mosaic Virus
+- Tomato Yellow Leaf Curl Virus
+
+Note:
+- The class list contains both "pepper,_bell_*" and "pepper_bell_*" labels, but they refer to the same Pepper Bell plant.
